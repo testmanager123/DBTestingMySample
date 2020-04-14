@@ -7,6 +7,7 @@ public class testWithGitJenkinsIntegrations {
 		System.out.println("this is update from eclipse to git");
 		System.out.println("this is update from git to jenkins");
 		System.out.println("it's worked properly");
+		System.out.println("this is updated");
 
 	}
 
